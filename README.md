@@ -16,6 +16,9 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 - [2608 - Shortest cycle in a graph (Difícil)](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
 <img width="734" alt="Shortest cycle in a graph" src="https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge/blob/main/img/leetcode_2608.png">
 
+- [1579 - Remove Max Number of Edges to Keep Graph Fully Traversable (Difícil)](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
+<img width="734" alt="Remove Max Number of Edges to Keep Graph Fully Traversable" src="https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge/blob/main/img/leetcode_1579.png">
+
 ## Instalação 
 
 Linguagem: C
