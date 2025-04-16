@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 20/0073184 |  Mateus Fidelis Marinho Maia |
 | 21/1031584  |  Ana Letícia Melo Pereira |
+| 20/0073184 |  Mateus Fidelis Marinho Maia |
 
 ## Sobre 
 Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em um juiz online - o LeetCode -, sendo eles, dois de nível difícil e um de nível médio.
@@ -19,10 +19,13 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 - [1579 - Remove Max Number of Edges to Keep Graph Fully Traversable (Difícil)](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 <img width="734" alt="Remove Max Number of Edges to Keep Graph Fully Traversable" src="https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge/blob/main/img/leetcode_1579.png">
 
+- [785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+<img width="734" alt="Is a Graph Bipartite" src="https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge/blob/main/img/785%20Is%20Graph%20Bipartite.png">
+
 ## Instalação 
 
-Linguagem: C
-Pré-requisitos: Compilador GCC
+Linguagens: C e Python
+Pré-requisitos: Compilador GCC, Python 3.4 
 
 ## 1. Clone o repositório 
 
@@ -32,11 +35,16 @@ git clone https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge.git
 
 ### 2. Compile o programa
 
+Em C:
 ```bash
-g++ nome_do_arquivo.cpp -o nome_do_executável -Wall 
+gcc -o nome_do_arquivo.c nome_do_executável  
 ./nome_do_executável
 ```
 
+Em Python:
+```bash
+python arquivo.py
+```
 
 ## Uso 
 Para aplicar os casos de teste (in e out), basta acessar o link referente ao exercício no LeetCode e inserí-los no prompt de comando, também é possível gerar novos casos de teste, desde que cumpram os requisitos do exercício em questão.
