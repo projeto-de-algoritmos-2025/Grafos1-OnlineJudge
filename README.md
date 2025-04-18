@@ -27,6 +27,12 @@ Retorne o comprimento desse menor ciclo, ou -1 se o grafo não contiver ciclos.
 
 🧠 Típico problema resolvido com BFS/DFS e "coloração" dos nós.
 
+### 🔗 [207. Couse Schedule](https://leetcode.com/problems/course-schedule/)
+- Resumo:
+- Você recebe o número de cursos e uma lista de pré-requisitos, onde cada par [a, b] indica que o curso a depende do curso b. A tarefa é verificar se é possível concluir todos os cursos, ou seja, se o grafo de dependências é acíclico. Nível de dificuldade: Médio.
+
+🧠 Envolve DFS para detecção de ciclos em grafos direcionados.
+
 
 ### [🔗 1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 Resumo:
