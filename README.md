@@ -63,7 +63,7 @@ Resumo:
 <img width="734" alt="Is a Graph Bipartite" src="https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge/blob/main/img/785%20Is%20Graph%20Bipartite.png">
 
 - Problema 207
-<img width="734" alt="Course Schedule" src="">
+<img width="734" alt="Course Schedule" src="https://github.com/projeto-de-algoritmos-2025/Grafos1-OnlineJudge/blob/main/img/Captura%20de%20tela%202025-04-18%20185011.png">
 
 ## Instalação 
 
